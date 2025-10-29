@@ -21,10 +21,7 @@ These are some of the real-world problems I've recently tackled:
 ### 🌐 Backend & Package Management
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LukesHomola&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LukesHomola&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukesHomola&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukesHomola&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
